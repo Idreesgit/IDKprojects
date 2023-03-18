@@ -1,0 +1,9 @@
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.AssemblyReference.cache
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.SuggestedBindingRedirects.cache
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Farmer.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Fruit.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.NetAmount.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Properties.Resources.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Truck.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.GenerateResource.cache
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.CoreCompileInputs.cache
